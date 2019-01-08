@@ -10,7 +10,9 @@ Update files for ZeroDown Software
 This update package contains 3 files
 
 update.sh	update script to update from version 8.05 and prior
+
 zds-usr.tar	update pacakge for ZeroDown Software
+
 zds-etc.tar	update package for ZeroDown Software system files
 
 ***********************************************
