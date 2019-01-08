@@ -26,7 +26,8 @@ Fixes Internet Explorer browser issue with reactive interface
 *      Instructions
 ***********************************************
 
-1.)	Download the update utility
+1.)	Download the update utility to the ZeroDown Software Instance.  Any SSL Certificates and Configurations will
+    need to be reinstalled/configured.  Backup the SSL Certificate prior to updating ZeroDown Software.
 
 zdsupdate.tar 
 
