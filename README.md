@@ -5,7 +5,8 @@ Update files for ZeroDown Software
 *
 ***********************************************
 
-2018-12-30
+Update: 2018-10-04
+===================
 
 This update package contains 3 files
 
@@ -14,6 +15,12 @@ update.sh	update script to update from version 8.05 and prior
 zds-usr.tar	update pacakge for ZeroDown Software
 
 zds-etc.tar	update package for ZeroDown Software system files
+
+Update: 2018-12-30
+===================
+
+Fixes Internet Explorer browser issue with reactive interface
+
 
 ***********************************************
 *      Instructions
