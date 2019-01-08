@@ -31,21 +31,22 @@ Fixes Internet Explorer browser issue with reactive interface
 
 zdsupdate.tar 
 
-or
-
-from the ZeroDown Software instance:
+or from the ZeroDown Software instance:
 
 wget http://downloads.zerodownsoftware.com/zdsupdate/zdsupdate.tar
+
 
 2.)	Unpack the compressed update utility scripts and files
 
 tar xvf zdsupdate.tar
 
+
 3.)	Run the update sxript from an elevated user
 
 sudo ./update.sh
 
-4.)	Restart the services
+
+4.)	Restart the services with the following commands:
 
 sudo zds-ui restart
 sudo zerodown restart
