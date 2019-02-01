@@ -5,6 +5,13 @@ Update files for ZeroDown Software
 *
 ***********************************************
 
+Update 2019-01-31
+===================
+
+Fixed local volume mapping for nodes and switches.
+
+
+
 Update: 2018-10-04
 ===================
 
