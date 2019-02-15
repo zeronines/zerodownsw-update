@@ -49,7 +49,7 @@ wget http://downloads.zerodownsoftware.com/zdsupdate/zdsupdate.tar
 tar xvf zdsupdate.tar
 
 
-3.)	Run the update sxript from an elevated user
+3.)	Run the update script from an elevated user
 
 sudo ./update.sh
 
