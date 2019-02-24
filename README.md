@@ -57,4 +57,5 @@ sudo ./update.sh
 4.)	Restart the services with the following commands:
 
 sudo zds-ui restart
+
 sudo zerodown restart
