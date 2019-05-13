@@ -5,6 +5,11 @@ Update files for ZeroDown Software
 *
 ***********************************************
 
+Update 2019-05-13
+===================
+Updated self-signed certificate that expired and prevented switch and node from loading properly
+
+
 Update 2019-01-31
 ===================
 
