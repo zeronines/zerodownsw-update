@@ -46,7 +46,7 @@ zdsupdate.tar
 
 or from the ZeroDown Software instance:
 
-wget http://downloads.zerodownsoftware.com/zdsupdate/zdsupdate.tar
+wget https://downloads.zerodownsoftware.com/zdsupdate/zdsupdate.tar
 
 
 2.)	Unpack the compressed update utility scripts and files
